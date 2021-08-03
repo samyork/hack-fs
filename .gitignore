@@ -1,0 +1,7 @@
+# gitignore template for Ethiopia
+
+# protect api keys in setting json
+settings.json
+
+# protect your .env settings
+.env
