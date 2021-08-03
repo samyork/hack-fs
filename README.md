@@ -1,5 +1,11 @@
 # hack-fs
 Ethiopia
 
-To make a new post, call createChild and enter a string:
-https://rinkeby.etherscan.io/address/0x30342689cb8b58f8d5d3858e155b1efbb6f3bf84#writeContract
+Now with likes and comments!
+Try it out:
+https://rinkeby.etherscan.io/address/0x046134900f6ec3dd0bd62372da620fce0f3ceac7#writeContract
+
+call createChild("Enter a string.")
+
+getPosts() to get a list of posts,
+go to an individual post contract to likePost() or createComment("string").
