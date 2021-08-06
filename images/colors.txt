@@ -1,5 +1,0 @@
-purple: 75008B
-green: 00B91C
-blue: 002FE7
-red: FF1717
-pink: FF00B2
